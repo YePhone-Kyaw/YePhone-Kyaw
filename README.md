@@ -69,7 +69,7 @@
 
 ## 📫 Connect with Me
 
-<div align="center">
+<div align="center" display="flex" flex-direction="column" >
   <a href="https://github.com/YePhone-Kyaw" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
