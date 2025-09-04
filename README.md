@@ -19,6 +19,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" align="left" style="padding-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" align="left" style="padding-right: 10px;"/>
@@ -36,6 +37,7 @@
 
 
 ### 🗄️ Databases & Tools
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" align="left" style="padding-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" align="left" style="padding-right: 10px;"/>
@@ -49,13 +51,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" align="left" style="padding-right: 10px"/>
 </div>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YePhone-Kyaw&theme=radical&hide_border=true" alt="GitHub Streak" height="160" style="margin: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YePhone-Kyaw&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" height="160" style="margin: 10px;"/>
 </div>
 
-## 📫 Connect with Me
+### 📫 Connect with Me
 
 <div align="center">
   <a href="https://github.com/YePhone-Kyaw" style="margin-right: 10px;">
