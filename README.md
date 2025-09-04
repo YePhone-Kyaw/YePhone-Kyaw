@@ -35,7 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" align="left" style="padding-right: 15px"/>
 </div>
 </br>
-</br>
 
 ### 🗄️ Databases & Tools
 
@@ -51,6 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" align="left" style="padding-right: 15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" align="left" style="padding-right: 15px"/>
 </div>
+</br>
+
 
 ##
 
