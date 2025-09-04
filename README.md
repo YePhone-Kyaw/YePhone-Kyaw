@@ -20,42 +20,52 @@
 
 ### 💻 Languages & Frameworks
 
-<p style="display: flex; justify-content: center; flex-wrap: wrap; width: 100%; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 0 15px 15px 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin: 0 15px 15px 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin: 0 15px 15px 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 0 15px 15px 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin: 0 15px 15px 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin: 0 15px 15px 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="margin: 0 15px 15px 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin: 0 15px 15px 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin: 0 15px 15px 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" style="margin: 0 15px 15px 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin: 0 15px 15px 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="margin: 0 0 15px 0;"/>
-</p>
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></td>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></td>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></td>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></td>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/></td>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></td>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></td>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></td>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/></td>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></td>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></td>
+  </tr>
+</table>
 
 ### 🗄️ Databases & Tools
 
-<p style="display: flex; justify-content: center; flex-wrap: wrap; width: 100%; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin: 0 15px 15px 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" style="margin: 0 15px 15px 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" style="margin: 0 15px 15px 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin: 0 15px 15px 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin: 0 0 15px 0;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin: 0 15px 15px 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin: 0 15px 15px 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" style="margin: 0 15px 15px 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin: 0 15px 15px 0;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="margin: 0 0 15px 0;"/>
-</p>
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></td>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/></td>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/></td>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></td>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></td>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></td>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/></td>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></td>
+    <td align="center" style="padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YePhone-Kyaw&theme=radical&hide_border=true" alt="GitHub Streak" height="170" style="margin: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YePhone-Kyaw&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" height="180" style="margin: 10px;"/>
-</p>
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" style="padding: 10px;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YePhone-Kyaw&theme=radical&hide_border=true" alt="GitHub Streak" height="160"/></td>
+    <td align="center" style="padding: 10px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YePhone-Kyaw&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" height="160"/></td>
+  </tr>
+</table>
 
 ## 📫 Connect with Me
 
