@@ -1,4 +1,4 @@
-# Hi there, I'm Ye Phone Kyaaw (Zayden)! 👋
+# Hi there, I'm Ye Phone Kyaw (Zayden)! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
@@ -76,4 +76,7 @@
   <a href="https://www.linkedin.com/in/ye-phone-kyaw-zayden-1161a7223/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://p-v1-three.vercel.app/" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+</a>
 </div>
