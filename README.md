@@ -20,8 +20,8 @@
 
 ### 💻 Languages & Frameworks
 <div align="right">
-  <p align="left"></p>
-  <p align="left"></p>
+  <div align="left"></div>
+  <div align="left"></div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" align="left"/>
