@@ -12,7 +12,7 @@
 
 ## 🎵 Hobbies & Interests
 
-- 💻 **Coding**: Passionate about building web applications and solving complex problems
+- 💻 **Coding**: Passionate about building applications and solving problems
 - 🎸 **Playing Guitar**: Enjoy playing music and releasing stress through melodies
 - 🎮 **Gaming**: Love to play games, especially mobile games
 
