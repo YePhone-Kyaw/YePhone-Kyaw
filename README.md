@@ -4,19 +4,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
 
-## 🎯 About Me
+## 👨‍💻 About Me
 
 - 🔭 I've been working on **Full Stack Projects**
-- 🌱 I've been sharpening **Data Structures & Algorithms**
+- 🌱 I've been sharpening **Data Structures & Algorithms Skills**
 - 🚀 I love learning **new technologies** and staying up-to-date with the latest trends
 
 ## 🎵 Hobbies & Interests
 
-- 💻 **Coding**: Passionate about building applications and solving problems
+- 💡 **Coding**: Passionate about building applications and solving problems
 - 🎸 **Playing Guitar**: Enjoy playing music and releasing stress through melodies
 - 🎮 **Gaming**: Love to play games, especially mobile games
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 ### 💻 Languages & Frameworks
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" align="left"/>
