@@ -1,4 +1,4 @@
-# Hi there, I'm Ye Phone Kyaw (Zayden)! 👋
+# Hi there, I'm Ye Phone Kyaw (Zayden) 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
