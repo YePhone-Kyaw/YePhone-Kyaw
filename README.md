@@ -19,13 +19,15 @@
 ## ⚙️ Tech Stack
 
 ### 💻 Languages & Frameworks
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" align="left"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="40" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" align="left"/>
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" align="left"/> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" align="left"/> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" align="left"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" align="left"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" align="left"/>
@@ -60,7 +62,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YePhone-Kyaw&theme=radical&hide_border=true" alt="GitHub Streak" height="160" style="margin: 10px;"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YePhone-Kyaw&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" height="160" style="margin: 10px;"/>
-</div> 
+</div>
 
 ##
 
