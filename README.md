@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 I've been working on **Full Stack Projects**
-- 🌱 I've been sharpening **Data Structures & Algorithms Skills**
+- 🌱 I've been sharpening **Software Engineering Skills**
 - 🚀 I love learning **new technologies** and staying up-to-date with the latest trends
 
 ## 🎵 Hobbies & Interests
